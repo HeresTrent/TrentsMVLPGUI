@@ -90,19 +90,17 @@ end)
 
 
 
-local Tab = Window:NewTab("Eleven (Not available, being worked on)")
+local Tab = Window:NewTab("Eleven (Being worked on)")
 local Section = Tab:NewSection("No cooldowns")
 
 
 
 Section:NewButton("Arm Twist", "No cooldown", function()
-
 end)
 
 
 
 Section:NewButton("Change to Eleven", "No cooldown", function()
-
 end)
 
 
@@ -110,7 +108,6 @@ end)
 
 
 Section:NewButton("Telekinetic Burst", "No cooldown", function()
-
 end)
 
 
