@@ -90,19 +90,19 @@ end)
 
 
 
-local Tab = Window:NewTab("Eleven")
+local Tab = Window:NewTab("Eleven (Not available, being worked on)")
 local Section = Tab:NewSection("No cooldowns")
 
 
 
 Section:NewButton("Arm Twist", "No cooldown", function()
-loadstring(game:HttpGet("https://pastebin.com/raw/Xxack2xY"))()
+
 end)
 
 
 
 Section:NewButton("Change to Eleven", "No cooldown", function()
-loadstring(game:HttpGet("https://pastebin.com/raw/1Vk5vSMt"))()
+
 end)
 
 
@@ -110,7 +110,7 @@ end)
 
 
 Section:NewButton("Telekinetic Burst", "No cooldown", function()
-loadstring(game:HttpGet("https://pastebin.com/raw/nPuh6h1E"))()
+
 end)
 
 
